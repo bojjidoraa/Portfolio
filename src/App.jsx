@@ -20,16 +20,16 @@ function App() {
           <h3>Hello, It's me</h3>
           <h1>BOJJIDORA ADDURI</h1>
           <h3>And I'm <span>Sitecore Technical Lead</span></h3>
-          <p>Sitecore Technical Lead with over 15 years of experience designing and delivering robust, scalable web applications using C# .NET, ASP.NET MVC, and Sitecore.</p>
+          <p>Proven experience in designing and delivering robust, scalable web applications using C# .NET, ASP.NET MVC, and Sitecore (SXA, Headless, JSS, XM, XP, XM Cloud), complemented by expertise in front-end technologies including Next.js, Vue.js, Angular, and React.</p>
           <div className="home1">
             <a href="mailto:bojjidoraa@gmail.com">Email</a>
-            <a href="tel:+919885992914">Call</a>
+            <a href="tel:+919962016004">Call</a>
           </div>
           <a href="#contact" className="btn-box">Contact Me</a>
         </div>
         <div className="image">
-          <img src="/Portfolio_files/background33333333.png" className="shape" alt="background" />
-          <img src="/Portfolio_files/propic.png" className="boy" alt="profile" />
+          <img src="/Portfolio/Portfolio_files/photo.png" className="shape" alt="background" />
+          <img src="/Portfolio/Portfolio_files/propic.png" className="boy" alt="profile" />
         </div>
       </section>
 

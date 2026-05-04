@@ -10,7 +10,7 @@ function Contact() {
       </form>
       <div className="contact-info">
         <p><strong>Email:</strong> <a href="mailto:bojjidoraa@gmail.com">bojjidoraa@gmail.com</a></p>
-        <p><strong>Phone:</strong> +91-9885992914</p>
+        <p><strong>Phone:</strong> +91-9962016004</p>
         <p><strong>Location:</strong> Hyderabad, India</p>
       </div>
     </section>
